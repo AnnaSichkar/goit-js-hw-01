@@ -35,6 +35,7 @@ switch (normalizedInput) {
 
     default:
         alert('В вашей стране доставка не доступна.')
+        
 }
 
 console.log(`Доставка в ${country} будет стоить ${price} кредитов`);
